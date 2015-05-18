@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Ascii","Datatype to hold one ascii character. It wraps a `u8`, with the highest bit always zero."],["AsciiStr",""],["AsciiString",""]],"trait":[["AsciiCast","Trait for converting into an ascii type."],["OwnedAsciiCast","Trait for copyless casting to an ascii vector."]]});

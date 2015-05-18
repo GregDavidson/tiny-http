@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EncoderOnlyUTF8Encoding","Replacement encoding used to solve a particular attack vector due to mismatching server and client supports for encodings. It is rarely useful outside."]],"mod":[["x_user_defined","Algorithmic mapping for `x-user-defined` encoding."]]});
