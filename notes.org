@@ -1,0 +1,10 @@
+* Notes on tiny-http
+	
+** Enum Message
+ why isn't lib.rs Enum Message an instance of Result?
+ 
+** Noted Ugliness
+ with_capacity(8) -- seriously? in lib.rs:
+        let messages = MessagesQueue::with_capacity(8);
+ in task_pool.rs: DOS threat:
+   /// A new thread is created every time all the existing threads are full.
